@@ -1,0 +1,50 @@
+{
+  "name": "HolidayAIBot",
+  "padlock": "Xp0lIaj8UDU3t+JrNb42/g==!bPmC24cADwq6EjucZHMXDUiHm6K0ZNxLBqEAaZenXUuCndV6EI0ECRPlY3dmzGVD",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "94d4b3cf-f792-466a-b935-9815c3666867",
+      "subscriptionId": "473be9d3-9275-4ab4-8640-0e552c568afe",
+      "resourceGroup": "AADomain-Pasificonet",
+      "serviceName": "HolidayAIBot",
+      "type": "abs",
+      "name": "HolidayAIBot",
+      "id": "1"
+    },
+    {
+      "connectionString": "5eBZRSs38YykY+lLxVL4SA==!cdr4lRIYEXzpAWR28TrkLUQ7s2opbOQPzyMd3mVgvnbe0Mh2BS6xoDH7hOyGMTcotodb+nateQQXCWJudsKuJkDSJ3gcbgQlV/NeS1BZhMtY5xcqlSsTXY21dkMEYItmGVKUuuJrKpaNjgSRSw/ICmtE2+yik5zmt92cfo+houtAfHX/pHYNWm+xodbQ781PnOdPvdiRHk5rfim4vv4clVF2xvLW9Fs4RBnRR/+yY9c=",
+      "tenantId": "94d4b3cf-f792-466a-b935-9815c3666867",
+      "subscriptionId": "473be9d3-9275-4ab4-8640-0e552c568afe",
+      "resourceGroup": "AADomain-Pasificonet",
+      "serviceName": "holidayaibot8e52",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "a3d946cf-b5f4-4a68-b110-2cab8d828425",
+      "appPassword": "0gof5+R0ogcNKXMhican1w==!epZ+jsh8BBzmsxZMxArhwBdKqnSjDp+qQ9bO0yJRUxo=",
+      "endpoint": "https://holidayaibot.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "42be8e1f-f892-49b3-929d-3fdbcacc10e0",
+      "authoringKey": "XW55+MrPTs1y+TcUCPWRbg==!iVkzNwyBf3W9lzCLZGvL5BpqVnz0R+PS93i17eCA5xRahfA2D9mZXqLow2Wor/8X",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
